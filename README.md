@@ -1,2 +1,3 @@
 # Calculator
-calculator
+This is my first repostory
+Auther by Umakant
